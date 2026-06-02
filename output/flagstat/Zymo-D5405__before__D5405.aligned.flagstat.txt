@@ -1,1 +1,20 @@
-/home/payton/Code/git/renew-bfx-tech-interview/work/8f/1e61a57ed5f6ac23a8a057a2b13ccc/Zymo-D5405__before__D5405.aligned.flagstat.txt
+117094	0	total (QC-passed reads + QC-failed reads)
+99945	0	primary
+8	0	secondary
+17141	0	supplementary
+0	0	duplicates
+0	0	primary duplicates
+108805	0	mapped
+92.92%	N/A	mapped %
+91656	0	primary mapped
+91.71%	N/A	primary mapped %
+0	0	paired in sequencing
+0	0	read1
+0	0	read2
+0	0	properly paired
+N/A	N/A	properly paired %
+0	0	with itself and mate mapped
+0	0	singletons
+N/A	N/A	singletons %
+0	0	with mate mapped to a different chr
+0	0	with mate mapped to a different chr (mapQ>=5)

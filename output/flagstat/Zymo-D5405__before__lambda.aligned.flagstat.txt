@@ -1,1 +1,20 @@
-/home/payton/Code/git/renew-bfx-tech-interview/work/f3/50e0e4c69641767b17d6022c817ba6/Zymo-D5405__before__lambda.aligned.flagstat.txt
+99948	0	total (QC-passed reads + QC-failed reads)
+99945	0	primary
+0	0	secondary
+3	0	supplementary
+0	0	duplicates
+0	0	primary duplicates
+43	0	mapped
+0.04%	N/A	mapped %
+40	0	primary mapped
+0.04%	N/A	primary mapped %
+0	0	paired in sequencing
+0	0	read1
+0	0	read2
+0	0	properly paired
+N/A	N/A	properly paired %
+0	0	with itself and mate mapped
+0	0	singletons
+N/A	N/A	singletons %
+0	0	with mate mapped to a different chr
+0	0	with mate mapped to a different chr (mapQ>=5)

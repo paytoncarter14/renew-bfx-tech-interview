@@ -1,1 +1,9 @@
-/home/payton/Code/git/renew-bfx-tech-interview/work/52/2b1daa736d249477dacc690f20bfbe/results.csv
+sample,reference,state,primary_reads,primary_mapped_reads,pct_primary_mapped
+Zymo-D5405,D5405,after,100218,98794,98.58
+Zymo-D5405,Homo_sapiens,after,100218,18,0.02
+Zymo-D5405,lambda,after,100218,7,0.01
+Zymo-D5405,Oryza_sativa,after,100218,39,0.04
+Zymo-D5405,D5405,before,99945,91656,91.71
+Zymo-D5405,Homo_sapiens,before,99945,205,0.21
+Zymo-D5405,lambda,before,99945,40,0.04
+Zymo-D5405,Oryza_sativa,before,99945,109,0.11
