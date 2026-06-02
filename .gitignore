@@ -1,0 +1,6 @@
+references/
+unaligned_bams/
+.vscode/
+.nextflow*
+work/
+output/align
