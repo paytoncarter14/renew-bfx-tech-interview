@@ -75,7 +75,7 @@ The `samtools flagstat` and plotting results can be seen in the `output` folder.
 
 Before the protocol change, 0.36% of reads primarily mapped to non-target references. After the protocol change, this decreased to 0.07% of reads, which can be seen in the plot. This suggests that barcode crossover is indeed reduced with the new protocol.
 
-![output plot](https://github.com/paytoncarter14/renew-bfx-tech-interview/blob/main/output/plot/Zymo-D5405.png)
+![output plot](https://github.com/paytoncarter14/renew-bfx-tech-interview/blob/0a905a9ff7add05f3dbd92981e74efa343401852/output/plot/Zymo-D5405.png)
 
 However, this decrease (0.29% fewer reads mapping to non-target references) is minor compared to the increase in the percentage of reads mapping to the target D5405 reference (6.87%). While the protocol change did seem to reduce barcode crossover, perhaps the more significant finding is that it substantially improved mapping performance to the target reference.
 
